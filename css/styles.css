@@ -1,0 +1,94 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	color: #FFDEAD;
+	background-color: #F4A460; 
+	font-family: 'Heebo', sans-serif; 
+	line-height: normal;
+	font-size: 12px; 
+} 
+
+#header-nav {
+	background-color: #800000; 
+	border: 0px;
+	border-radius: 0px;
+}
+
+.navbar-brand {
+	padding: 10px;
+}
+
+.navbar-brand h1 { /*Brand Name Food, LCC */
+	color: #bfff00; 
+	font-size: 30px;
+    font-family: 'Heebo', sans-serif;
+    text-shadow: 1px 1px 2px black;   
+    font-weight: bold; 
+    text-align: center;
+    margin-top: 3px;
+    padding-bottom: 5px;
+    margin-left: 5px;
+
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+	
+}
+
+#nav-list {
+  margin-top: 10px;
+}
+
+#nav-list a {
+    text-align: center; 
+	color: #FFD700;
+
+}
+
+#nav-list a:hover {
+	background: #B22222;
+	box-shadow: 0 0 5px #000000;
+	}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #FFD700;
+}
+
+.text-center {
+	color: #330000;
+	margin: 0;
+	padding: 0;
+	font-size: 25px;
+}
+
+.container h2 {
+	font-size: 20px;
+	margin-top: 12px;
+	margin-bottom: 40px;
+}
+
+
+#main-section {
+	background-color: #B22222;
+	box-shadow: 0 0 10px #000000;
+}
+
+
+#main-section h3 {
+	font-size: 15px;
+	padding: 5px;
+	margin-bottom: 2px;
+	color: #FFDEAD;
+}
+
+p{
+	padding: 10px;
+	font-size: 13px;
+}
+
+
+
+
